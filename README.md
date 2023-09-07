@@ -5,7 +5,9 @@ Demo Flask Site for CSCI
 Well you'll have to pip install flask and stuff. We'll go over that later if you need.
 
 ## What's the deal?
-[https://www.youtube.com/watch?v=Jao3XiiXOPE] Gives a quick rundown
+[https://www.youtube.com/watch?v=Jao3XiiXOPE] Gives a quick rundown of how the site is constructed.
+
+The source, though, is more important. 
 
 Basically, I wanted to show how quickly a site using our "stack" (minus databases) can be cooked up.
 It uses Flask-Sessions for logging in, we'd have to change some stuff for security reasons but 
